@@ -1,0 +1,35 @@
+
+✅ **Why?**  
+- **GitHub Search Indexes README.md** → Helps in search results  
+- **Natural Keyword Usage** → Increases visibility  
+
+---
+
+## **3. GitHub Repository Tags (`.gitignore`, `LICENSE`)**
+Adding `.gitignore` and `LICENSE` **improves ranking** because GitHub prioritizes well-structured repositories.
+
+### **How?**
+- **.gitignore** → Add a Flutter `.gitignore`  
+- **LICENSE** → Choose **MIT** (recommended for open-source)  
+
+---
+
+## **4. Issues & Discussions**
+When you create **GitHub Issues** or **Discussions**, **use keywords** in:
+- **Issue titles**
+- **Issue descriptions**
+- **Discussion threads**
+
+📌 **Example Issue Title:**  
+`[Feature Request] Add search functionality using PostgreSQL Full-Text Search`
+
+✅ This helps **GitHub search index** your repo for PostgreSQL search.
+
+---
+
+## **5. GitHub Actions (`.github/workflows`)**
+If using **GitHub Actions** for CI/CD, name the workflow with relevant keywords.
+
+#### **Example:**
+```yaml
+name: Flutter Appwrite Note App CI
