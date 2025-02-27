@@ -19,7 +19,7 @@ Supports **offline storage**, **rich text editing**, and **multi-platform (iOS, 
 
 ## Installation 📥
 ```bash
-git clone https://github.com/your-username/Note_App.git
+git clone https://github.com/MuhammadShoaib1930/Note_Application.git
 cd Note_App
 flutter pub get
 flutter run
